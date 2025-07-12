@@ -1,0 +1,8 @@
+add_number,aircraft_registration,date_reported,discrepancy,ata_chapter,deferral_category,expiry_date,status,corrective_action,technician,station,notes
+ADD-001,EC-MAA,2025-07-01,Landing light not functioning,33,B,2025-07-05,Open,"Deferred per MEL 33-42-01",J. Ramirez,LEMD,Pending replacement
+ADD-002,EC-MAA,2025-07-02,Lavatory smoke detector inop,26,C,2025-07-12,Open,"Deferred per MEL 26-21-01",L. Torres,LEBL,Check at next A-check
+ADD-003,EC-MBB,2025-07-02,Right fuel quantity indicator erratic,28,B,2025-07-06,Open,"Monitor per MEL 28-41-01",A. Medina,LEVC,No immediate action
+ADD-004,EC-MCC,2025-07-03,Passenger seatbelt sign light out,33,C,2025-07-15,Open,"Deferred per MEL 33-21-01",F. Ortega,LEZL,To be replaced during overnight
+ADD-005,EC-MAA,2025-07-04,Engine oil temp sensor intermittent,79,B,2025-07-08,Open,"Monitor per MEL 79-10-01",C. Torres,LEMD,Will review in daily check
+ADD-006,EC-MDD,2025-07-04,Navigation display flickering,34,B,2025-07-09,Open,"Deferred per MEL 34-22-01",S. Alvarez,LEBL,Pilot notified
+ADD-007,EC-MBB,2025-07-05,Cargo hold light inoperative,25,C,2025-07-20,Open,"Deferred per MEL 25-51-01",M. Ruiz,LEVC,To be fixed at base

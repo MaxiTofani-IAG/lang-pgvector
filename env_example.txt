@@ -1,0 +1,11 @@
+# Copia este archivo como .env y configura tus valores
+
+# Configuración de la base de datos
+DB_HOST=localhost
+DB_PORT=5432
+DB_NAME=midb
+DB_USER=admin
+DB_PASSWORD=admin123
+
+# API Key de Gemini (opcional)
+GEMINI_API_KEY=tu_api_key_de_gemini_aqui 

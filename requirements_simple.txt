@@ -1,0 +1,20 @@
+# Dependencias mínimas para el sistema de búsqueda con LangChain SQL Toolkit
+
+# Base de datos
+psycopg2-binary>=2.9.9
+
+# LangChain y LLM
+langchain>=0.3.0
+langchain-community>=0.3.0
+langchain-google-genai>=2.0.0
+google-generativeai>=0.8.0
+
+# SQL Database Toolkit
+sqlalchemy>=2.0.0
+
+# Machine Learning para embeddings
+sentence-transformers>=3.0.0
+numpy>=1.26.0
+
+# Utilidades
+python-dotenv>=1.0.0
