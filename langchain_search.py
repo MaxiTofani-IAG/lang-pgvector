@@ -96,7 +96,7 @@ class LangChainSearchAgent:
                 model="gemini-2.0-flash",
                 google_api_key=api_key,
                 temperature=0.0,
-                max_output_tokens=1000
+                max_output_tokens=500
             )
             print("✅ Gemini configurado correctamente")
         except Exception as e:
